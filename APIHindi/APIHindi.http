@@ -1,0 +1,6 @@
+@APIHindi_HostAddress = http://localhost:5160
+
+GET {{APIHindi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
